@@ -1,0 +1,520 @@
+!SESSION 2016-08-04 19:19:53.189 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/liviuchis/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/liviuchis/Documents/qna/phonegap/aem -product org.eclipse.epp.package.jee.product -keyring /Users/liviuchis/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 16 2016-08-04 19:20:00.933
+!MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: dev.eclipse.org: unknown error. ; version: 1.100.0.v20160217-0435
+!STACK 0
+java.net.UnknownHostException: dev.eclipse.org: unknown error
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:44)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:102)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:319)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.apache.http.client.fluent.Executor.execute(Executor.java:206)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.request(IO.java:205)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:68)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:101)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Thread.java:745)
+!SESSION 2016-08-04 19:25:33.212 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/liviuchis/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/liviuchis/Documents/qna/phonegap/aem -product org.eclipse.epp.package.jee.product -keyring /Users/liviuchis/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 16 2016-08-04 19:25:43.027
+!MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: dev.eclipse.org: unknown error. ; version: 1.100.0.v20160217-0435
+!STACK 0
+java.net.UnknownHostException: dev.eclipse.org: unknown error
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:44)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:102)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:319)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.apache.http.client.fluent.Executor.execute(Executor.java:206)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.request(IO.java:205)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:68)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:101)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:29:07.257
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:29:07.263
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:30:41.167
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:30:41.171
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:50:20.363
+!MESSAGE Could not transfer metadata com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:50:21.543
+!MESSAGE Failure to transfer com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:50:21.561
+!MESSAGE Failure to transfer com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-08-04 19:50:35.209
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17)  @ line 19, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17)  @ line 19, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:815)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:956)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:729)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1050)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17)  @ line 19, column 17
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:575)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:269)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161)
+	... 15 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-08-04 19:50:35.357
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2044)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2016-08-04 19:50:35.359
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2044)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125)
+	... 26 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-08-04 19:51:34.792
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:815)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:956)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:729)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1050)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:575)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:269)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161)
+	... 15 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-08-04 19:51:34.950
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2044)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2016-08-04 19:51:34.950
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2044)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125)
+	... 26 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-08-04 19:51:44.892
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:815)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:956)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:729)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1050)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:575)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:269)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161)
+	... 15 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-08-04 19:51:44.996
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2044)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2016-08-04 19:51:44.996
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2044)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125)
+	... 26 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:52:20.159
+!MESSAGE Failure to transfer com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-08-04 19:52:20.161
+!MESSAGE Failed to read Maven project: 2 problems were encountered while building the effective model for com.lindenhoney:content:0.0.1-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM com.lindenhoney:content:0.0.1-SNAPSHOT (/Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml) points at com.lindenhoney.aem.qna:qna instead of com.lindenhoney:qna, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM for com.lindenhoney:content:0.0.1-SNAPSHOT: Failure to transfer com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer artifact com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project com.lindenhoney:content:0.0.1-SNAPSHOT at /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: 2 problems were encountered while building the effective model for com.lindenhoney:content:0.0.1-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM com.lindenhoney:content:0.0.1-SNAPSHOT (/Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml) points at com.lindenhoney.aem.qna:qna instead of com.lindenhoney:qna, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM for com.lindenhoney:content:0.0.1-SNAPSHOT: Failure to transfer com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer artifact com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project com.lindenhoney:content:0.0.1-SNAPSHOT at /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:815)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:956)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:729)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1050)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.apache.maven.model.building.ModelBuildingException: 2 problems were encountered while building the effective model for com.lindenhoney:content:0.0.1-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM com.lindenhoney:content:0.0.1-SNAPSHOT (/Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml) points at com.lindenhoney.aem.qna:qna instead of com.lindenhoney:qna, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM for com.lindenhoney:content:0.0.1-SNAPSHOT: Failure to transfer com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer artifact com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1007)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:796)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:325)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161)
+	... 15 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:53:35.922
+!MESSAGE Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:53:35.923
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:53:36.049
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:53:36.050
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:54:17.472
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:54:17.473
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:57:37.130
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:57:37.131
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:57:37.437
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:57:37.437
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:59:22.723
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 19:59:22.724
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 20:01:34.335
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 20:01:34.336
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 20:01:35.608
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-04 20:01:35.609
+!MESSAGE Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error

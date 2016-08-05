@@ -1,0 +1,15 @@
+.question .question-header{
+	font-weight: bold;
+}
+
+.question .question-header .question-label{
+	float: left;
+}
+
+.selected{
+	margin-left: 20px;
+}
+
+.selected .sub-title{
+	font-weight: bold;
+}

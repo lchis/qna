@@ -1,0 +1,29 @@
+<div class="question">
+	<div class="question-header">
+		<div class="question-label">
+			{{question.question}}
+		</div>	
+		<div class="edit">
+			<span>Edit</span>
+		</div>
+	</div>
+	<form name="{{key}}" class="answers" ng-submit="submitAnswer()">
+		<div ng-repeat="(key, answer) in answers">
+			<answer question="question" answer="answer" key="key" params="params" ng-if="answer.answer">
+				<!-- pass in:
+					question 	- node
+					key 		- node name
+					answer 		- node
+					params		- parameters for the answer node to work on
+					ng-if		- if answer node has an answer property (filter to avoid jcr specific nodes)
+				-->
+			</answer>
+		</div>{{isOwner}} - {{user}}
+		<input type="submit" id="submit" value="Submit" />
+	</form>
+	<div class="selected">
+		<!-- params.choice is set with the selected answer object in input in answer directive -->
+		<span class="sub-title">Your Selection: </span>{{params.choice.answer}}
+		<!--<span class="sub-title">Your Selection: </span>{{choice}}-->
+	</div>
+</div>

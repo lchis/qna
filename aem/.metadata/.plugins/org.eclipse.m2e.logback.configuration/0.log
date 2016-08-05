@@ -1,0 +1,528 @@
+2016-08-04 19:20:55,011 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml
+2016-08-04 19:20:55,806 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 19:20:56,375 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /qna/src/main/java
+2016-08-04 19:20:56,376 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /qna/src/test/java
+2016-08-04 19:20:56,884 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-08-04 19:20:57,265 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:20:57,265 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/src/main/resources
+2016-08-04 19:20:57,267 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:20:57,267 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/src/test/resources
+2016-08-04 19:29:06,632 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 19:29:06,915 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /qna/src/main/java
+2016-08-04 19:29:06,916 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /qna/src/main/resources
+2016-08-04 19:29:06,917 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /qna/src/test/java
+2016-08-04 19:29:06,917 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /qna/src/test/resources
+2016-08-04 19:29:07,257 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-04 19:29:07,261 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-04 19:29:07,262 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-04 19:29:07,263 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-04 19:30:40,818 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 19:30:41,008 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /qna/src/main/java
+2016-08-04 19:30:41,008 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /qna/src/main/resources
+2016-08-04 19:30:41,009 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /qna/src/test/java
+2016-08-04 19:30:41,009 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /qna/src/test/resources
+2016-08-04 19:30:41,167 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-04 19:30:41,170 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-04 19:30:41,171 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-04 19:30:41,171 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-04 19:31:21,415 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lindenhoney:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 19:32:51,757 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+2016-08-04 19:32:52,015 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 19:32:52,221 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bundle/src/main/java
+2016-08-04 19:32:52,222 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bundle/src/test/java
+2016-08-04 19:32:52,244 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-08-04 19:32:52,628 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:32:52,629 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:32:52,630 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:32:52,630 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:32:52,660 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lindenhoney:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 19:32:52,826 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 19:32:53,952 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:32:53,952 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:32:53,976 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:32:53,976 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:33:36,720 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml
+2016-08-04 19:33:36,757 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 19:33:36,917 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /content/src/main/java
+2016-08-04 19:33:36,918 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /content/src/test/java
+2016-08-04 19:33:36,945 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-08-04 19:33:37,093 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:33:37,093 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/resources
+2016-08-04 19:33:37,094 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:33:37,094 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:33:38,140 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lindenhoney:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 19:33:38,312 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 19:33:38,325 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 19:33:39,554 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:33:39,554 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:33:39,555 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:33:39,555 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:33:39,562 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:33:39,563 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/resources
+2016-08-04 19:33:39,563 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:33:39,563 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:48:22,464 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lindenhoney:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 19:48:22,657 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 19:48:22,670 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 19:48:23,910 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:23,910 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:48:23,912 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:23,912 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:48:23,920 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:23,920 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/resources
+2016-08-04 19:48:23,920 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:23,921 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:48:30,965 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lindenhoney:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 19:48:31,096 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 19:48:31,116 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 19:48:32,332 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:32,332 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:48:32,333 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:32,333 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:48:32,340 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:32,340 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/resources
+2016-08-04 19:48:32,341 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:32,341 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:48:49,138 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lindenhoney:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 19:48:49,259 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 19:48:49,271 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 19:48:50,485 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:50,485 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:48:50,486 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:50,486 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:48:50,494 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:50,494 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/resources
+2016-08-04 19:48:50,495 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:48:50,495 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:50:20,360 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.adobe.com/nexus/content/groups/public/com/lindenhoney/qna/0.0.1-SNAPSHOT/maven-metadata.xml
+2016-08-04 19:50:20,363 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Could not transfer metadata com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:50:20,370 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.adobe.com/nexus/content/groups/public/com/lindenhoney/qna/0.0.1-SNAPSHOT/qna-0.0.1-SNAPSHOT.pom
+2016-08-04 19:50:20,386 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lindenhoney.qna:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 19:50:21,543 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:50:21,561 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:50:23,836 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 19:50:35,208 [Worker-24] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17)  @ line 19, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17)  @ line 19, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168) ~[maven-core-3.3.3.jar:3.3.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119) ~[maven-core-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:815) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:956) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:191) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:729) [org.eclipse.m2e.editor_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1050) [org.eclipse.m2e.editor_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17)  @ line 19, column 17
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:575) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:269) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161) ~[maven-core-3.3.3.jar:3.3.3]
+	... 15 common frames omitted
+2016-08-04 19:50:35,356 [Worker-2] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @19:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2044) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	... 26 common frames omitted
+2016-08-04 19:51:34,792 [Worker-15] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168) ~[maven-core-3.3.3.jar:3.3.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119) ~[maven-core-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:815) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:956) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:191) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:729) [org.eclipse.m2e.editor_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1050) [org.eclipse.m2e.editor_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:575) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:269) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161) ~[maven-core-3.3.3.jar:3.3.3]
+	... 15 common frames omitted
+2016-08-04 19:51:34,950 [Worker-2] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2044) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	... 26 common frames omitted
+2016-08-04 19:51:44,892 [Worker-2] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+ for project  at /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168) ~[maven-core-3.3.3.jar:3.3.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119) ~[maven-core-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:815) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:956) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:191) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:729) [org.eclipse.m2e.editor_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1050) [org.eclipse.m2e.editor_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17)  @ line 22, column 17
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:575) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:269) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161) ~[maven-core-3.3.3.jar:3.3.3]
+	... 15 common frames omitted
+2016-08-04 19:51:44,996 [Worker-20] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'artifactId' (position: START_TAG seen ...============================================ -->\n\n    <artifactId>... @22:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2044) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	... 26 common frames omitted
+2016-08-04 19:52:07,349 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 19:52:07,454 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:52:07,454 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:52:07,455 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:52:07,455 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:52:08,545 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:52:08,545 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:52:08,545 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:52:08,545 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:52:13,074 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 19:52:13,162 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:52:13,162 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:52:13,163 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:52:13,163 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:52:20,159 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney:qna:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:52:20,161 [Worker-24] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 2 problems were encountered while building the effective model for com.lindenhoney:content:0.0.1-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM com.lindenhoney:content:0.0.1-SNAPSHOT (/Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml) points at com.lindenhoney.aem.qna:qna instead of com.lindenhoney:qna, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM for com.lindenhoney:content:0.0.1-SNAPSHOT: Failure to transfer com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer artifact com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project com.lindenhoney:content:0.0.1-SNAPSHOT at /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml
+org.apache.maven.project.ProjectBuildingException: 2 problems were encountered while building the effective model for com.lindenhoney:content:0.0.1-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM com.lindenhoney:content:0.0.1-SNAPSHOT (/Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml) points at com.lindenhoney.aem.qna:qna instead of com.lindenhoney:qna, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM for com.lindenhoney:content:0.0.1-SNAPSHOT: Failure to transfer com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer artifact com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project com.lindenhoney:content:0.0.1-SNAPSHOT at /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168) ~[maven-core-3.3.3.jar:3.3.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119) ~[maven-core-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:815) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:956) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:191) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:729) [org.eclipse.m2e.editor_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1050) [org.eclipse.m2e.editor_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 2 problems were encountered while building the effective model for com.lindenhoney:content:0.0.1-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM com.lindenhoney:content:0.0.1-SNAPSHOT (/Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml) points at com.lindenhoney.aem.qna:qna instead of com.lindenhoney:qna, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM for com.lindenhoney:content:0.0.1-SNAPSHOT: Failure to transfer com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer artifact com.lindenhoney:qna:pom:0.0.1-SNAPSHOT from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1007) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:796) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:325) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161) ~[maven-core-3.3.3.jar:3.3.3]
+	... 15 common frames omitted
+2016-08-04 19:52:54,418 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney:content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 19:52:54,602 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:52:54,602 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/resources
+2016-08-04 19:52:54,603 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:52:54,603 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:52:55,749 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:52:55,749 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/resources
+2016-08-04 19:52:55,750 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:52:55,750 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:53:05,413 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 19:53:05,486 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:53:05,486 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/resources
+2016-08-04 19:53:05,487 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:53:05,487 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:53:35,922 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.adobe.com/nexus/content/groups/public/com/lindenhoney/aem/qna/xlsupload-bundle/0.0.1-SNAPSHOT/maven-metadata.xml
+2016-08-04 19:53:35,922 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:53:35,923 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:53:35,925 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.adobe.com/nexus/content/groups/public/com/lindenhoney/aem/qna/xlsupload-bundle/0.0.1-SNAPSHOT/xlsupload-bundle-0.0.1-SNAPSHOT.pom
+2016-08-04 19:53:36,047 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 19:53:36,049 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:53:36,050 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:53:36,117 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:53:36,118 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 19:53:36,118 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:53:36,118 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:54:17,472 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:54:17,473 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:54:17,676 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:54:17,676 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:54:17,678 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:54:17,678 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:54:17,680 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:54:17,680 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 19:54:17,681 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:54:17,681 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:54:55,395 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:54:55,396 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 19:54:55,396 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:54:55,396 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:55:08,388 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:55:08,388 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:55:08,389 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:55:08,389 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:56:08,301 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:56:08,301 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 19:56:08,301 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:56:08,301 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:56:39,423 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:56:39,423 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 19:56:39,423 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:56:39,423 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:56:44,097 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:56:44,097 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 19:56:44,098 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:56:44,098 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:57:36,557 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-08-04 19:57:37,070 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 19:57:37,129 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 19:57:37,130 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:57:37,131 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:57:37,190 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bundle/src/main/java
+2016-08-04 19:57:37,190 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bundle/src/test/java
+2016-08-04 19:57:37,238 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /content/src/main/java
+2016-08-04 19:57:37,238 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /content/src/test/java
+2016-08-04 19:57:37,273 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-08-04 19:57:37,428 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:57:37,428 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 19:57:37,429 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:57:37,429 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 19:57:37,436 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:57:37,437 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:57:37,448 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:57:37,448 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 19:57:37,449 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:57:37,449 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 19:58:39,935 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-04 19:58:52,133 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle
+2016-08-04 19:58:52,134 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PautoInstallPackage  -B clean install
+2016-08-04 19:59:22,720 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 19:59:22,722 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:59:22,723 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 19:59:22,775 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:59:22,775 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 19:59:22,776 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 19:59:22,776 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 20:00:04,365 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-08-04 20:00:04,388 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle
+2016-08-04 20:00:04,388 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PautoInstallPackage  -B clean install
+2016-08-04 20:00:14,798 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-04 20:00:18,696 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle
+2016-08-04 20:00:18,696 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-08-04 20:01:03,142 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 20:01:03,214 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:03,215 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 20:01:03,216 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:03,216 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 20:01:10,987 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 20:01:11,061 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:11,061 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 20:01:11,062 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:11,062 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 20:01:25,751 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 20:01:25,821 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:25,821 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 20:01:25,822 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:25,822 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 20:01:26,915 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:26,916 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 20:01:26,916 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:26,916 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 20:01:34,246 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/pom.xml.
+2016-08-04 20:01:34,332 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 20:01:34,334 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 20:01:34,336 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 20:01:34,380 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-bundle:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/pom.xml.
+2016-08-04 20:01:35,602 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:35,602 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 20:01:35,603 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:35,603 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 20:01:35,608 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 20:01:35,609 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from https://repo.adobe.com/nexus/content/groups/public/ was cached in the local repository, resolution will not be reattempted until the update interval of adobe has elapsed or updates are forced. Original error: Could not transfer metadata com.lindenhoney.aem.qna:xlsupload-bundle:0.0.1-SNAPSHOT/maven-metadata.xml from/to adobe (https://repo.adobe.com/nexus/content/groups/public/): repo.adobe.com: unknown error
+2016-08-04 20:01:35,669 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:35,670 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 20:01:35,670 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:01:35,670 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 20:02:11,273 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.lindenhoney.aem.qna:qna-content:0.0.1-SNAPSHOT @ /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/pom.xml.
+2016-08-04 20:02:11,334 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:02:11,334 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 20:02:11,335 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:02:11,335 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 20:02:46,998 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:02:46,998 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 20:02:46,998 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:02:46,998 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 20:02:56,239 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:02:56,239 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 20:02:56,239 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:02:56,239 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 20:04:18,669 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:04:18,670 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 20:04:18,670 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:04:18,670 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 20:05:35,285 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:05:35,285 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/main/content/jcr_root
+2016-08-04 20:05:35,285 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:05:35,285 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 20:05:39,666 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-04 20:05:58,695 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/liviuchis/Documents/qna/phonegap/aem/qna
+2016-08-04 20:05:58,695 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PautoInstallPackage  -B clean install
+2016-08-04 20:06:44,005 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-04 20:06:53,910 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/liviuchis/Documents/qna/phonegap/aem/qna
+2016-08-04 20:06:53,910 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PautoInstallPackagePublish  -B clean install
+2016-08-04 20:07:56,488 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:07:56,496 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2016-08-04 20:07:56,507 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:07:56,507 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 20:08:14,168 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/liviuchis/Documents/qna/phonegap/aem/qna
+2016-08-04 20:08:14,168 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-08-04 20:08:16,089 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:08:16,089 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/main/resources
+2016-08-04 20:08:16,089 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:08:16,089 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/bundle/src/test/resources
+2016-08-04 20:08:16,095 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:08:16,097 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2016-08-04 20:08:16,102 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-04 20:08:16,102 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liviuchis/Documents/qna/phonegap/aem/qna/content/src/test/resources
+2016-08-04 20:08:20,357 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-04 20:08:28,500 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/liviuchis/Documents/qna/phonegap/aem/qna
+2016-08-04 20:08:28,500 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PautoInstallPackagePublish  -B clean install

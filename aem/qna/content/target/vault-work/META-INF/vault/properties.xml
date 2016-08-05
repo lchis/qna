@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>QnA Package</comment>
+<entry key="createdBy">liviuchis</entry>
+<entry key="name">qna-content</entry>
+<entry key="created">2016-08-04T20:08:31.646-0400</entry>
+<entry key="groupId">com.lindenhoney.aem.qna</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">SIR</entry>
+<entry key="description">QnA Package</entry>
+<entry key="artifactId">qna-content</entry>
+<entry key="path">/etc/packages/SIR/qna-content.zip</entry>
+</properties>

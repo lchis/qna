@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/content/qna">
+        <exclude pattern="/jcr:system" />
+        <exclude pattern="/var/classes" />
+        <exclude pattern="^.*/rep:accessControl" />
+        <exclude pattern="^.*/rep:policy" />
+    </filter>
+    <filter root="/apps/qna" />
+</workspaceFilter>

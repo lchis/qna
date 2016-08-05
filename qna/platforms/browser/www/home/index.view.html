@@ -1,0 +1,8 @@
+<div class="user">
+	Current User: {{user}}
+</div>
+<div class="questions">
+	<div ng-repeat="(key, question) in questions">
+		<question question="question" key="key" ng-show="question.question"></question>
+	</div>
+</div>

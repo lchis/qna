@@ -1,0 +1,12 @@
+<div class="answer">
+	<label>
+		<input type="radio" ng-model="params.choice" ng-value="answer">{{answer.answer}}
+
+		<!-- selected is property on answer node -->
+		<div class="selected" ng-show="answer.selected">
+			<span class="header">Selected</span>
+			<div ng-repeat="selected in select">
+				<selected selected="selected"></selected>
+			</div>
+	</label>
+</div>

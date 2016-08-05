@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:unstructured"
+    sling:resourceType="qna/components/question"
+    owner="liviu"
+    question="What movie do you want to see tonight?">
+    <answers jcr:primaryType="nt:unstructured">
+        <deadpool
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="qna/components/answer"
+            answer="Deadpooll"
+            title="liviu"/>
+        <zoolander2
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="qna/components/answer"
+            answer="Zoolander 2"
+            selected="chicco"
+            title="liviu"/>
+        <batmanvsuperman
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="qna/components/answer"
+            answer="Batman Vs Superman"
+            selected="[vanessa]"/>
+        <badneighbours2
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="qna/components/answer"
+            answer="Bad Neighbours 2"
+            title="Chicco"/>
+        <soundofmusic
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="qna/components/answer"
+            answer="The Sound of Music"/>
+        <zootopia
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="qna/components/answer"
+            answer="Zootopia"
+            selected="Coline"/>
+    </answers>
+</jcr:root>
