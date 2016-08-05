@@ -17,4 +17,5 @@ README.md
 *.vlt
 .vlt
 */.vlt
+/.vlt
 .DS_Store
