@@ -12,6 +12,7 @@
 .settings/
 target/
 .metadata/
+*/.metadata/
 README.md
 *.vlt
 .vlt
