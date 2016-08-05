@@ -14,7 +14,7 @@ target/
 .metadata/
 */.metadata/
 README.md
-*.vlt
+aem/**/.vlt
 .vlt
 */.vlt
 /.vlt
